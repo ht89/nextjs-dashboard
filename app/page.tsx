@@ -4,6 +4,8 @@ import Link from 'next/link';
 import AcmeLogo from './ui/acme-logo';
 import { lusitana } from './ui/fonts';
 
+// Home page
+
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
